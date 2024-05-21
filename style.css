@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-image: url(./images/iphone-wallpapers-8764869.jpg);
-    background-size: 100vw 100vh;
+    background-size: cover;
     background-attachment: fixed;
     flex-wrap: wrap;
     
