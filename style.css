@@ -5,7 +5,6 @@ body {
     background-image: url(./images/iphone-wallpapers-8764869.jpg);
     background-size: cover;
     background-attachment: fixed;
-    flex-wrap: wrap;
     
 }
 
@@ -103,7 +102,8 @@ img {
     flex-direction: column;
     margin-left: 50px;
     margin-right: 50px;
-    flex-shrink: 1;
+    flex: 1;
+    flex-wrap: wrap;
 
 }
 
